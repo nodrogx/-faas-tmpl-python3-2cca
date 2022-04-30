@@ -1,1 +1,1 @@
-# -faas-tmpl-python3-2cca
+# faas-tmpl-python3-2cca
